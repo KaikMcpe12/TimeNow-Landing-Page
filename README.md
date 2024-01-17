@@ -1,6 +1,8 @@
 # Meu Projeto Codewell 👋
 
-Este é um projeto pessoal que desenvolvi para aprimorar minhas habilidades em HTML e CSS. Utilizei templates de alta qualidade fornecidos pelo Codewell, que se tornaram excelentes peças para o meu portfólio.
+Este é um projeto pessoal que desenvolvi para aprimorar minhas habilidades em HTML e CSS. Utilizei templates de alta qualidade fornecidos pelo Codewell, que se tornaram excelentes peças para o meu portfólio
+
+![imagem do projeto](./.github/preview.png)
 
 ## 🎯 Objetivo do Projeto
 
